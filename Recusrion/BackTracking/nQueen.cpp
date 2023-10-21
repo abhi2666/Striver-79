@@ -4,7 +4,7 @@ private:
         
         //check if all queens have been placed
         if(col == n){
-            ans.push_back(board);
+            ans.pback(board);ush_
             return;
         }
         // check for all the places, wether you can put your queen there or not
